@@ -1,0 +1,12 @@
+{
+    "sign up": {
+        "username": "pihu",
+        "password": "supriya@123"
+    },
+    "profilo": {
+        "description": " i am pihu",
+        "birth_date": "10 march 2001",
+        "Hobbies": "net ball",
+        "Gender": "female"
+    }
+}
